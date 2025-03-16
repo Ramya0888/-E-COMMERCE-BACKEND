@@ -82,23 +82,24 @@ OUTPUT:
 
 USER REGISTER:
 
+![Image](https://github.com/user-attachments/assets/0e199621-89e7-4b86-9bd9-2396a6777187)
 
 USER LOGIN:
 
-
+![Image](https://github.com/user-attachments/assets/a903adde-e782-4032-8385-d2eaa69f8379)
 
 ADD PRODUCTS:
 
-
+![Image](https://github.com/user-attachments/assets/4ee0b7e5-2633-4e4e-a0ac-298ac07f1b89)
 
 GET PRODUCT:
 
-
+![Image](https://github.com/user-attachments/assets/da8f17bc-471b-4a0e-9969-9f8bd4f10788)
 
 PLACE ORDERS:
 
-
+![Image](https://github.com/user-attachments/assets/88d78d82-dcb4-43fd-9d9f-6039e31a12b4)
 
 GET ORDERS:
 
-
+![Image](https://github.com/user-attachments/assets/8989b474-86dd-4a02-a159-8d544d83c8b0)
